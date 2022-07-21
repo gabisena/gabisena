@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey you! 
 
-<!--
-**gabisena/gabisena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
+I'm Gabriela, Data Analyst from São Paulo, Brazil :brazil:, currently living in Berlin, Germany :de:.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on a personal project with google places API and my new data analyst skills. :desktop_computer:
+- I’m currently learning more about Tableau 
+- Ask me about trips :airplane:
+- My current goal is to improve my German and run 10k until the end of the year. :zap:
+
+#### Let's talk? the places you can find me
+
+[<img align="left" alt="linkedin" width="25px" src=""/>](https://www.linkedin.com/in/gabrielasousasena/)
+
+
