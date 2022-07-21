@@ -11,6 +11,8 @@ I'm Gabriela, Data Analyst from São Paulo, Brazil :brazil:, currently living in
 
 #### Let's talk? the places you can find me
 
-[<img align="left" alt="linkedin" width="25px" src=""/>](https://www.linkedin.com/in/gabrielasousasena/)
+[<img align="left" alt="linkedin" width="25px" src="https://github.com/gabisena/gabisena/blob/main/linkedin.svg"/>](https://www.linkedin.com/in/gabrielasousasena/)
+[<img align="left" alt="linkedin" width="25px" fill="#EA4335" src="https://github.com/gabisena/gabisena/blob/main/gmail.svg"/>](mailto:s.senagabriela@gmail.com)
+
 
 
